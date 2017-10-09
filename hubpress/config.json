@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "saga"
   },
   "urls": {
     "site": "https://Zatttch.github.io",
     "hubpress": "https://zatttch.github.io",
-    "theme": "//Zatttch.github.io/themes/casper",
+    "theme": "//Zatttch.github.io/themes/ghostium",
     "images": "https://Zatttch.github.io/images"
   },
   "initialisationConfigComponent": {
