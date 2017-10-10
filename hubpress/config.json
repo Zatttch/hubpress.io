@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "uno"
   },
   "urls": {
     "site": "https://Zatttch.github.io",
     "hubpress": "https://zatttch.github.io",
-    "theme": "//Zatttch.github.io/themes/the-shell",
+    "theme": "//Zatttch.github.io/themes/saga",
     "images": "https://Zatttch.github.io/images"
   },
   "initialisationConfigComponent": {
