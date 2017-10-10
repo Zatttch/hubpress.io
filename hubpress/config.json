@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://Zatttch.github.io",
     "hubpress": "https://zatttch.github.io",
-    "theme": "//Zatttch.github.io/themes/saga",
+    "theme": "//Zatttch.github.io/themes/the-shell",
     "images": "https://Zatttch.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -25,7 +25,7 @@
     ]
   },
   "site": {
-    "title": "Zatttch / Blog",
+    "title": "Zatttch",
     "description": "Un pequeño blog de un desarrollador muy verde",
     "logo": "",
     "cover": "",
