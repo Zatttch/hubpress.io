@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "roon"
   },
   "urls": {
     "site": "https://Zatttch.github.io",
     "hubpress": "https://zatttch.github.io",
-    "theme": "//Zatttch.github.io/themes/uno",
+    "theme": "//Zatttch.github.io/themes/uno-zen",
     "images": "https://Zatttch.github.io/images"
   },
   "initialisationConfigComponent": {
